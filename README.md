@@ -1,44 +1,42 @@
-group members -
-1. Jhupaka Ranjit
-2. Praveen Kumar Choudhary
-3. Priyanshu
-4. Shivam Saraswat
-5. Sourabh Chandel
-6. Vidhu Prakash
-
-
-# Crop-Disease-detection-using-image-classification-using-leafs-Soft-Computing-
-
+# Crop Disease Detection using Image Classification on Leaves - Soft Computing
 
 ## **Objective:**
 
-Developed an algorithm using deep learning, Image Processing and Fuzzy Inference system that allows the user to identify a disease caused by a particular micro-organism that is infested on the leaf of a plant and also successfully shows estimated health severity of the leaf based on how much of a leaf is infected.
+The objective of this project is to develop an algorithm that utilizes deep learning, image processing, and fuzzy inference systems to identify diseases caused by various microorganisms infesting plant leaves. Additionally, the algorithm estimates the health severity of the leaf based on the extent of infection.
 
-
-[![flow chart](https://user-images.githubusercontent.com/73630123/119841897-d5ffbe00-bf23-11eb-8b50-85d662d42d7a.jpg)](https://youtu.be/N7Jr5pAZFg8)
+[![Flow Chart](https://user-images.githubusercontent.com/73630123/119841897-d5ffbe00-bf23-11eb-8b50-85d662d42d7a.jpg)](https://youtu.be/N7Jr5pAZFg8)
 
 ## **Methodology:**
 
 ### I. Neural Network Classifier
 
-The deep learning algorithm studies the different dataset images and classifies into one of the 5 categories: Bacteria, Fungi, Virus, Nematode and Normal Leaf (Not infected at all)
+A neural network classifier is employed to categorize leaf images into one of five categories: Bacteria, Fungi, Virus, Nematode, and Normal Leaf (no infection).
 
-![img1](https://user-images.githubusercontent.com/73630123/119844591-3132b000-bf26-11eb-8151-0c4dc690b854.png)
+![Infected Leaf Samples](https://user-images.githubusercontent.com/73630123/119844591-3132b000-bf26-11eb-8151-0c4dc690b854.png)
 
-After classifying feature extraction of the infected leaf has been done using Digital Image Processing technique.
+After classification, feature extraction of the infected leaf is performed using digital image processing techniques.
 
-### II. Image processing
+### II. Image Processing
 
-Studied the images in the dataset and understanding the different patterns in which the organisms infect the leaf. Thus, the main objective of the technique of image processing is to extract the infected area of the leaf and isolating the background and the green part of the leaf. This would help us to highlight the only the infected area.
+The images in the dataset are analyzed to understand the various patterns in which organisms infect leaves. Image processing techniques are then used to extract the infected area of the leaf, isolating it from the background and the healthy green parts.
 
-![img2](https://user-images.githubusercontent.com/73630123/119844877-6ccd7a00-bf26-11eb-94ed-bf3a323f05ee.jpg)
+![Image Processing](https://user-images.githubusercontent.com/73630123/119844877-6ccd7a00-bf26-11eb-94ed-bf3a323f05ee.jpg)
 
 ### III. Fuzzy Rule Base System
 
-Finally after the feature extraction , to determine the health severity of the leaf in terms of percentage, a set of rules have been aggregated by using Fuzzy Inference System in MATLAB
+To determine the health severity of the leaf as a percentage, a set of rules is aggregated using a Fuzzy Inference System implemented in MATLAB.
 
-![img3](https://user-images.githubusercontent.com/73630123/119845058-95ee0a80-bf26-11eb-93ee-cfed52f258bd.jpg)
+![Fuzzy Rule Base System](https://user-images.githubusercontent.com/73630123/119845058-95ee0a80-bf26-11eb-93ee-cfed52f258bd.jpg)
 
 ## **Result:**
 
-![result discussion img1](https://user-images.githubusercontent.com/73630123/119840931-04c96480-bf23-11eb-957d-14e49c01d3d9.jpg)
+![Result Discussion](https://user-images.githubusercontent.com/73630123/119840931-04c96480-bf23-11eb-957d-14e49c01d3d9.jpg)
+
+## Group Members:
+
+1. Jhupaka Ranjit (2020IMT-042)
+2. Praveen Kumar Choudhary (2020IMT-072)
+3. Priyanshu (2020IMT-076)
+4. Shivam Saraswat (2020IMT-091)
+5. Sourabh Chandel (2020IMT-102)
+6. Vidhu Prakash (2020IMT-115)
