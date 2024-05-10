@@ -1,3 +1,12 @@
+group members -
+1. Jhupaka Ranjit
+2. Praveen Kumar Choudhary
+3. Priyanshu
+4. Shivam Saraswat
+5. Sourabh Chandel
+6. Vidhu Prakash
+
+
 # Crop-Disease-detection-using-image-classification-using-leafs-Soft-Computing-
 
 
@@ -5,7 +14,6 @@
 
 Developed an algorithm using deep learning, Image Processing and Fuzzy Inference system that allows the user to identify a disease caused by a particular micro-organism that is infested on the leaf of a plant and also successfully shows estimated health severity of the leaf based on how much of a leaf is infected.
 
->*You can click [here](https://youtu.be/N7Jr5pAZFg8) to get redirected to the youtube video of this Project.*
 
 [![flow chart](https://user-images.githubusercontent.com/73630123/119841897-d5ffbe00-bf23-11eb-8b50-85d662d42d7a.jpg)](https://youtu.be/N7Jr5pAZFg8)
 
