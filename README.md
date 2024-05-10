@@ -1,12 +1,12 @@
 # Crop Disease Detection using Image Classification on Leaves - Soft Computing
 
-## **Objective:**
+## Objective:
 
 The objective of this project is to develop an algorithm that utilizes deep learning, image processing, and fuzzy inference systems to identify diseases caused by various microorganisms infesting plant leaves. Additionally, the algorithm estimates the health severity of the leaf based on the extent of infection.
 
 [![Flow Chart](https://user-images.githubusercontent.com/73630123/119841897-d5ffbe00-bf23-11eb-8b50-85d662d42d7a.jpg)](https://youtu.be/N7Jr5pAZFg8)
 
-## **Methodology:**
+## Methodology:
 
 ### I. Neural Network Classifier
 
@@ -28,7 +28,7 @@ To determine the health severity of the leaf as a percentage, a set of rules is 
 
 ![Fuzzy Rule Base System](https://user-images.githubusercontent.com/73630123/119845058-95ee0a80-bf26-11eb-93ee-cfed52f258bd.jpg)
 
-## **Result:**
+## Result:
 
 ![Result Discussion](https://user-images.githubusercontent.com/73630123/119840931-04c96480-bf23-11eb-957d-14e49c01d3d9.jpg)
 
@@ -40,3 +40,7 @@ To determine the health severity of the leaf as a percentage, a set of rules is 
 4. Shivam Saraswat (2020IMT-091)
 5. Sourabh Chandel (2020IMT-102)
 6. Vidhu Prakash (2020IMT-115)
+
+Presentation Link: [Prezi](https://prezi.com/view/b1jEjud6gS1f5gRcdBsl/)
+
+Overleaf Report Link: [Overleaf](https://www.overleaf.com/9935637858wttpsvcxnxjw#8c253f)
